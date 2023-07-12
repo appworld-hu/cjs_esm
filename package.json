@@ -1,0 +1,12 @@
+{
+  "name": "cjs_esm",
+  "version": "1.0.0",
+  "description": "Common SJ and Ecma Script Modules examples ",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Appworld",
+  "license": "ISC"
+}
